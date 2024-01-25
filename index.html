@@ -71,7 +71,7 @@
             const timeBlocksElement = document.getElementById("time-blocks");
 
             function displayCurrentDay() {
-                const currentDay = moment.now().format("dddd, MMMM Do YYYY");
+                const currentDay = moment().format("dddd, MMMM Do YYYY");
                 currentDayElement.textContent = currentDay;
             }
 
