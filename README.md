@@ -23,4 +23,4 @@ Im using a third-party API to get the current date and time
  https://nutechgy.github.io/daily-planner/
 
  
-https://github.com/Nutechgy/dailyly-planner.git
+https://github.com/Nutechgy/daily-planner.git
