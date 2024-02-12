@@ -1,5 +1,5 @@
 # Daily-Planner
-![image](https://github.com/Nutechgy/Dailyly-Planner/assets/147452378/ce0c5492-bd2b-47e3-9ff9-387e5998df2e)
+![image](https://github.com/Nutechgy/monthly-planner/assets/147452378/ce0c5492-bd2b-47e3-9ff9-387e5998df2e)
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -19,7 +19,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
- https://nutechgy.github.io/Daily-Planner/
+ https://nutechgy.github.io/monthlyly-planner/
 
  
-https://github.com/Nutechgy/Daily-Planner.git
+https://github.com/Nutechgy/monthly-planner.git
