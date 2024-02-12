@@ -19,7 +19,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
- https://nutechgy.github.io/monthlyly-planner/
+ https://nutechgy.github.io/daily-planner/
 
  
-https://github.com/Nutechgy/monthly-planner.git
+https://github.com/Nutechgy/dailyly-planner.git
